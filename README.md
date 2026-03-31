@@ -52,7 +52,11 @@ This project showcases fashion products with an attractive UI and smooth browsin
 
 ## 📸 Screenshots
 
-(Add screenshots here for better presentation)
+<img width="1084" height="599" alt="Screenshot 2026-03-31 171744" src="https://github.com/user-attachments/assets/31a18504-8175-4a51-a6f0-1493de7084dc" />
+
+<img width="1203" height="532" alt="Screenshot 2026-03-31 171837" src="https://github.com/user-attachments/assets/6fd13d39-44a0-4c62-b101-a06ef0df5ef7" />
+
+
 
 ---
 
